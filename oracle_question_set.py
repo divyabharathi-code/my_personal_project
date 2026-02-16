@@ -280,30 +280,3 @@ data = [
 
 for i in data:
     print(f'{i[2]}, {i[3]}')
-lpdf_df = [{"channelSegmentationAbbreviation":"EO_NA ","channelSegmentationDescription":"EO-Not Applicable","channelSegmentationIdentifier":"147"},
-      {"channelSegmentationAbbreviation":"EO_AS_BTR","channelSegmentationDescription":"EO-Athletic Specialty/Better","channelSegmentationIdentifier":"26"},
-      {"channelSegmentationAbbreviation":"EO_CS_BST","channelSegmentationDescription":"EO-Category Specialty/Best","channelSegmentationIdentifier":"27"},
-      {"channelSegmentationAbbreviation":"EO_SG_BST","channelSegmentationDescription":"EO-Sporting Goods/Best","channelSegmentationIdentifier":"29"},
-      {"channelSegmentationAbbreviation":"EO_SG_BTR","channelSegmentationDescription":"EO-Sporting Goods/Better","channelSegmentationIdentifier":"30"},
-      {"channelSegmentationAbbreviation":"EO_DS_BST","channelSegmentationDescription":"EO-Department Store/Best","channelSegmentationIdentifier":"73"},
-      {"channelSegmentationAbbreviation":"EO_DS_BTR","channelSegmentationDescription":"EO-Department Store/Better","channelSegmentationIdentifier":"74"},
-      {"channelSegmentationAbbreviation":"EO_DS_GD","channelSegmentationDescription":"EO-Department Store/Good","channelSegmentationIdentifier":"75"},
-      {"channelSegmentationAbbreviation":"EO_GN_BTR","channelSegmentationDescription":"EO-General Footwear/Better","channelSegmentationIdentifier":"76"},
-      {"channelSegmentationAbbreviation":"EO_GN_GD","channelSegmentationDescription":"EO-General Footwear/Good","channelSegmentationIdentifier":"77"},
-      {"channelSegmentationAbbreviation":"EO_SG_GD","channelSegmentationDescription":"EO-Sporting Goods/Good","channelSegmentationIdentifier":"83"}]
-
-cps_df = [{"channelSegmentationAbbreviation":"EO_AS_BTR","channelSegmentationDescription":"EO-Athletic Specialty/Better","channelSegmentationIdentifier":"26"},
-          {"channelSegmentationAbbreviation":"EO_CS_BST","channelSegmentationDescription":"EO-Category Specialty/Best","channelSegmentationIdentifier":"27"},
-          {"channelSegmentationAbbreviation":"EO_SG_BST","channelSegmentationDescription":"EO-Sporting Goods/Best","channelSegmentationIdentifier":"29"},
-          {"channelSegmentationAbbreviation":"EO_SG_BTR","channelSegmentationDescription":"EO-Sporting Goods/Better","channelSegmentationIdentifier":"30"},
-          {"channelSegmentationAbbreviation":"EO_DS_BST","channelSegmentationDescription":"EO-Department Store/Best","channelSegmentationIdentifier":"73"},
-          {"channelSegmentationAbbreviation":"EO_DS_BTR","channelSegmentationDescription":"EO-Department Store/Better","channelSegmentationIdentifier":"74"},
-          {"channelSegmentationAbbreviation":"EO_DS_GD","channelSegmentationDescription":"EO-Department Store/Good","channelSegmentationIdentifier":"75"},
-          {"channelSegmentationAbbreviation":"EO_GN_BTR","channelSegmentationDescription":"EO-General Footwear/Better","channelSegmentationIdentifier":"76"},
-          {"channelSegmentationAbbreviation":"EO_GN_GD","channelSegmentationDescription":"EO-General Footwear/Good","channelSegmentationIdentifier":"77"},
-          {"channelSegmentationAbbreviation":"EO_SG_GD","channelSegmentationDescription":"EO-Sporting Goods/Good","channelSegmentationIdentifier":"83"},
-          {"channelSegmentationAbbreviation":"EO_NA ","channelSegmentationDescription":"EO-Not Applicable","channelSegmentationIdentifier":"147"}]
-
-
-[{"channelSegmentationAbbreviation":"EO_NA "
-     ,"channelSegmentationDescription":"EO-Not Applicable","channelSegmentationIdentifier":"147"},{"channelSegmentationAbbreviation":"EO_CS_BST","channelSegmentationDescription":"EO-Category Specialty/Best","channelSegmentationIdentifier":"27"},{"channelSegmentationAbbreviation":"EO_SG_BST","channelSegmentationDescription":"EO-Sporting Goods/Best","channelSegmentationIdentifier":"29"},{"channelSegmentationAbbreviation":"EO_DS_BST","channelSegmentationDescription":"EO-Department Store/Best","channelSegmentationIdentifier":"73"},{"channelSegmentationAbbreviation":"EO_GN_BTR","channelSegmentationDescription":"EO-General Footwear/Better","channelSegmentationIdentifier":"76"}]
