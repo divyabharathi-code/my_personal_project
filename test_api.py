@@ -1,0 +1,14 @@
+import requests
+
+api_dict = {
+    "geo_product_offering": "geo_product_offering",
+    "geo_product_offering": "geo_product_offering",
+    "model": "model"
+}
+url = "https://qmbpa6m4te.execute-api.us-west-2.amazonaws.com/dev/api/geo_product_offering/v0.1/9933504"
+headers = {
+    "Authorization": "Bearer eyJraWQiOiI1bS1zSzU3azdRQ1luWFh6aUJ4QUxyNDYySVAwaDBLY0NWUTlneEtYQzBVIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULjhuRW5JcGo5WTF6NmVuejRCQkFjdDNPaHpRRFU5NktKYjNRbXVjeFI4d1EiLCJpc3MiOiJodHRwczovL25pa2UtcWEub2t0YXByZXZpZXcuY29tL29hdXRoMi9hdXNhMG1jb3JucFpMaTBDNDBoNyIsImF1ZCI6Imh0dHBzOi8vbmlrZS1xYS5va3RhcHJldmlldy5jb20iLCJpYXQiOjE3NDA2NjI1ODAsImV4cCI6MTc0MDY2NjE4MCwiY2lkIjoibmlrZS5uaWtldGVjaC5wbHAiLCJzY3AiOlsiZ3JvdXBzIiwiZGVmYXVsdCJdLCJzdWIiOiJuaWtlLm5pa2V0ZWNoLnBscCJ9.VlTWUTyvlJatDCkRgvUX2uIIHVnrx813YYyf6cAIamEWxHQwnc97Faoqh_6ny0yc1ZA7YwFcr_1cCr6KBibYjJjZhwGj-lMtQYc1G478LZRpC0CCWLDRyKZ_bd9CiUR1c71lX9i_S6WP5V7EzG1Oarwb-qCfc-EXlpgQUGBPDhkAHpgy6y2i1WPeswiLVso0OoS9d3jwAJ17wOwawAqa5bnHICU91WJJ7-Y3wDowev7kAP7fKRUbncUeDKTfyGzGG1dz_OqNbJ3I-YRo75vhzG92ji-SNNaGp-1RxTCK6YOOrG27BXNboT0V5Hv7ZX3e1DtVEXJMVpbSatcsYJ8UCg"
+}
+
+response = requests.get(url, headers=headers)
+print(response.text)

@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="636e76c3-85ae-4c2c-8ae4-8fd756255650" name="Changes" comment="recent changes">
+      <change afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/important_nodes_dsa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/design_patterns/behavioural/statergy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/design_patterns/creation/builder_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/design_patterns/creation/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/design_patterns/creation/singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/look_and_join/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentations/look_and_join/design_patterns/kafka_tutorial/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/100_problems with solution and explaination.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/100_problems with solution and explaination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/101- 200.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/101- 200.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/practise_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/practise_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems/Akamai/4. More Than Six Months.csv" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems/Akamai/4. More Than Six Months.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems/Alibaba/5. All.csv" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems/Alibaba/5. All.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/design_patterns/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/SORTING/selection_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/design_patterns/observer.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/design_patterns/behavioural/observer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/design_patterns/singleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/LLD AND HLD CONCEPTS/lld_desings/atm/atm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentations/design_patterns/statergy.py" beforeDir="false" afterPath="$PROJECT_DIR$/documentations/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/documentations" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dsowdh_nike&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/donnemartin/system-design-primer.git&quot;,
+    &quot;accountId&quot;: &quot;4d466df7-f558-4852-919c-7e222c592d40&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/email/quoprimime.py" root0="SKIP_INSPECTION" />
+    <setting file="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py" root0="SKIP_INSPECTION" />
+    <setting file="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/typing.py" root0="SKIP_INSPECTION" />
+    <setting file="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/xml/etree/ElementInclude.py" root0="SKIP_INSPECTION" />
+    <setting file="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/xmlrpc/client.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2024.3/python_stubs/139901317/_io.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2024.3/python_stubs/139901317/builtins.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/anyio/_backends/_asyncio.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/gevent/baseserver.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/gevent/hub.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/gevent/server.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/kafka/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/kafka/producer/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/kafka/producer/kafka.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.9/site-packages/kafka/producer/simple.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rys610lHTj3cg2NO0xcczlWo8s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.101- 200.executor": "Debug",
+    "Python.4_sum.executor": "Debug",
+    "Python.abstraction_example.executor": "Debug",
+    "Python.api_test_script.executor": "Debug",
+    "Python.best_problems_to_review.executor": "Debug",
+    "Python.changes.executor": "Debug",
+    "Python.coding_chnages.executor": "Debug",
+    "Python.count_no_of_good_pairs.executor": "Debug",
+    "Python.cy.executor": "Debug",
+    "Python.decorator_ex.executor": "Debug",
+    "Python.dynamic_programing_2d.executor": "Debug",
+    "Python.fib.executor": "Debug",
+    "Python.generator_example.executor": "Debug",
+    "Python.good_pairs.executor": "Debug",
+    "Python.graph.executor": "Debug",
+    "Python.graph_bfs.executor": "Debug",
+    "Python.graph_dfs.executor": "Debug",
+    "Python.graph_problems_patterns.executor": "Debug",
+    "Python.inheritance_example.executor": "Debug",
+    "Python.interface_segregation.executor": "Debug",
+    "Python.kafka_basic.executor": "Debug",
+    "Python.longest_common_substring.executor": "Debug",
+    "Python.main.executor": "Debug",
+    "Python.manage.executor": "Run",
+    "Python.matrix.executor": "Debug",
+    "Python.maximum_sum_subarray_of_k.executor": "Debug",
+    "Python.merge_sort.executor": "Debug",
+    "Python.move_balls.executor": "Debug",
+    "Python.partition_list.executor": "Debug",
+    "Python.practise_test.executor": "Debug",
+    "Python.prime_num.executor": "Debug",
+    "Python.protocal_handler.executor": "Debug",
+    "Python.questions_all.executor": "Debug",
+    "Python.rabbit_in_forrest.executor": "Debug",
+    "Python.recolor.executor": "Debug",
+    "Python.reverse_linked_list.executor": "Debug",
+    "Python.selection_sort.executor": "Debug",
+    "Python.simple_list_dict_string_revise.executor": "Debug",
+    "Python.single_responsibility.executor": "Run",
+    "Python.sliding_window_problems.executor": "Debug",
+    "Python.static_class_method.executor": "Debug",
+    "Python.string.executor": "Debug",
+    "Python.string_compression.executor": "Debug",
+    "Python.string_problems.executor": "Debug",
+    "Python.sub_folder.executor": "Debug",
+    "Python.test.executor": "Debug",
+    "Python.tiny_url.executor": "Debug",
+    "Python.word_spell_check.executor": "Debug",
+    "Python.zigzag_level_order_traversal.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "recent__changes",
+    "last_opened_file_path": "/Users/dsowdh/PycharmProjects/my_personal_codings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentations/look_and_join" />
+      <recent name="$PROJECT_DIR$/documentations/LLD AND HLD CONCEPTS/lld_desings/atm" />
+      <recent name="$PROJECT_DIR$/design_patterns" />
+      <recent name="$PROJECT_DIR$/documentations/PYTHON/test_file" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.selection_sort">
+    <configuration name="interface_segregation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_personal_codings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/documentations/design_patterns/solid" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documentations/design_patterns/solid/interface_segregation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questions_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_personal_codings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems/questions_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_personal_codings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/SORTING" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/SORTING/selection_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_responsibility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_personal_codings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/documentations/design_patterns/solid" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documentations/design_patterns/solid/single_responsibility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_spell_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_personal_codings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.selection_sort" />
+        <item itemvalue="Python.interface_segregation" />
+        <item itemvalue="Python.single_responsibility" />
+        <item itemvalue="Python.questions_all" />
+        <item itemvalue="Python.word_spell_check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="636e76c3-85ae-4c2c-8ae4-8fd756255650" name="Changes" comment="" />
+      <created>1737542471601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737542471601</updated>
+    </task>
+    <task id="LOCAL-00001" summary="recent changes">
+      <option name="closed" value="true" />
+      <created>1754547648611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754547648611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recent changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="recent changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/maximum_sum_subarray_of_k.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/maximum_sum_subarray_of_k.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/longest_common_substring.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/longest_common_substring.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/longest_common_substring.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/longest_common_substring.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TREE/zigzag_level_order_traversal.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/string_test.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/move_balls.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SLIDING_WINDOW/recolor.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/prime_num.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/DYNAMIC_PROGRAMING/fib.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/heap/find_median_from_stream.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/SORT/merge_sort.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph_dfs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LINKED_LIST/reverse_linked_list.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/HASH_MAP/test.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/STRING_CHANGES/string_compression.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>192</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/GRAPH/graph.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/partition_list.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/partition_list.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/TWO_POINTERS/partition_list.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/coding_chnages.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LEETCODE_DAILY/good_pairs.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LEETCODE_DAILY/good_pairs.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LEETCODE_DAILY/good_pairs.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LEETCODE_DAILY/good_pairs.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/LEETCODE_DAILY/good_pairs.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>369</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>374</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>376</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>405</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>401</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>595</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>592</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>590</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>641</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>642</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/best_problems_to_review.py</url>
+          <line>647</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/simple_list_dict_string_revise.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/simple_list_dict_string_revise.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/kafka_tutorial/kafka_basic.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/kafka_tutorial/kafka_basic.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/kafka_tutorial/kafka_basic.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/look_and_join/design_patterns/static_class_method.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_api_jobs/main.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_api_jobs/main.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_api_jobs/main.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_api_jobs/main.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/count_no_of_good_pairs.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/string_problems.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sub_folder.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/4_sum.py</url>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sliding_window_problems.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sliding_window_problems.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sliding_window_problems.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sliding_window_problems.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/sliding_window_problems.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/101- 200.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/101- 200.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/101- 200.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/changes.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/cy.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/graph_problems_patterns.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/graph_problems_patterns.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/dynamic_programing_2d.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/dynamic_programing_2d.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/dynamic_programing_2d.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/dynamic_programing_2d.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/dynamic_programing_2d.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/matrix.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/documentations/CODING/100_IMPORTANT_PROBLEMS/word_spell_check.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

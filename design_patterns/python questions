@@ -1,0 +1,43 @@
+### Python Interview Questions for Senior Software Developers
+
+#### Core Python Concepts
+1. Explain Python's Global Interpreter Lock (GIL) and how it affects multithreading.
+2. What are Python's data types, and how is memory managed for them?
+3. How does Python handle garbage collection? Explain reference counting and cyclic garbage collection.
+4. What is the difference between `deepcopy` and `shallowcopy` in Python?
+5. Explain the difference between `is` and `==` in Python.
+
+#### Advanced Python Topics
+6. How do decorators work in Python? Provide an example of a custom decorator.
+7. What are Python's metaclasses, and how are they used?
+8. Explain the difference between `@staticmethod`, `@classmethod`, and instance methods.
+9. How does Python's `asyncio` library work? Provide an example of asynchronous programming.
+10. What are Python's context managers, and how do you implement a custom one?
+
+#### Python Libraries and Frameworks
+11. How would you use `multiprocessing` vs `threading` in Python for parallelism?
+12. Explain the use of `NumPy` and `Pandas` for data manipulation.
+13. How does the `logging` module work? Provide an example of structured logging.
+14. What is the difference between `Flask` and `Django`? When would you use one over the other?
+15. How do you handle message queues in Python using libraries like `Celery` or `Kafka`?
+
+#### Code Optimization and Debugging
+16. How do you profile Python code for performance bottlenecks?
+17. What are Python's best practices for writing clean and maintainable code?
+18. How do you debug Python applications effectively? Mention tools like `pdb` or `PyCharm Debugger`.
+19. Explain the use of type hints in Python. How do they improve code quality?
+20. How do you handle memory leaks in Python applications?
+
+#### Database and APIs
+21. How do you interact with databases in Python using `SQLAlchemy` or `Django ORM`?
+22. Explain how to design and consume RESTful APIs in Python.
+23. How do you handle authentication and authorization in Python web applications?
+24. What are the differences between synchronous and asynchronous API calls in Python?
+25. How do you implement pagination in APIs using Python?
+
+#### Testing and Deployment
+26. How do you write unit tests in Python using `unittest` or `pytest`?
+27. Explain the concept of mocking in Python testing. Provide an example.
+28. How do you deploy Python applications using Docker or Kubernetes?
+29. What are Python's best practices for CI/CD pipelines?
+30. How do you handle versioning and dependency management in Python projects?

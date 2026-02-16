@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentations/CODING/coding_matterials_from_books" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentations/CODING/coding_matterials_from_books/Software-Engineer-Coding-Interviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentations/CODING/company_wise_questions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/documentations/CODING/company_wise_questions/leetcode-company-wise-problems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nse_data_code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system-design-primer" vcs="Git" />
+  </component>
+</project>
